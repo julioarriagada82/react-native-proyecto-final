@@ -51,8 +51,5 @@ Para poder desplegar la información dentro de la App se esta utilizando una API
 
 - Iniciar emulador
 
-Android
-npx react-native run-android
-
-IOS
-npx react-native run-ios
+- `Android`: npx react-native run-android
+- `IOS`: npx react-native run-ios
