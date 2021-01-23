@@ -58,7 +58,7 @@ const HomeTab = () => {
             return (
               <View style={styles.icon}>
                 <FontistoIcon name="camera" color={color} size={25} />
-                <Text style={{color, marginLeft: 10}}>Cámara</Text>
+                <Text style={{color, marginLeft: 10}}>Perfil</Text>
               </View>
             );
           },
