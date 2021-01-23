@@ -1,0 +1,1 @@
+export const getCastingMovie = (state) => state?.casting?.castingMovie
